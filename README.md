@@ -1,4 +1,4 @@
-b# Meduim Next.js + Tailwind CSS + ISR
+# Meduim Next.js + Tailwind CSS + ISR
 
 <!-- TABLE OF CONTENTS -->
 
