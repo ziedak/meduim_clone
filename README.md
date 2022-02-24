@@ -36,7 +36,7 @@ Static pages can be generated at runtime (on-demand) instead of at build-time wi
 
 Consider an e-commerce store with 100,000 products. At a realistic 50ms to statically generate each product page, the build would take almost 2 hours without ISR. With ISR, we can choose from:
 
-**Faster Builds**<br> → Generate the most popular 1,000 products at build-time. Requests made to other products will be a cache miss and statically generate on-demand: 1-minute builds.
+**Faster Builds**<br> → Generate the most popular 1,000 products at build-time. Requests made to other products will be a cache miss and statically generate on-demand: 1-minute builds.<br>
 **Higher Cache Hit Rate**<br> → Generate 10,000 products at build-time, ensuring more products are cached ahead of a user's request: 8-minute builds.
 ## Getting Started
 
