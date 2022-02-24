@@ -1,4 +1,4 @@
-# Meduim Next.js + Tailwind CSS + ISR
+# Meduim: ReactJs + TypeScript + Next.js (ISR) + Tailwind CSS
 
 <!-- TABLE OF CONTENTS -->
 
