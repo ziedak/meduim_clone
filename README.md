@@ -14,7 +14,7 @@
 
 > The <b>Meduim-clone</b> web application presents a custom Meduim-clone.
 > <br>
-> The APP is created with the latest industry standards using React.js NextJs ISR
+> The APP is created with the latest industry standards using React.js, typescript and NextJs (ISR)
 > <br>
 
 ## Screenshot
@@ -25,6 +25,7 @@
 This project was built using these technologies.
 
 - React.js
+- TypeScript
 - Next Js + ISR
 - GitHub
 
