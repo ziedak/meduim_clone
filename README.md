@@ -44,9 +44,9 @@ Consider an e-commerce store with 100,000 products. At a realistic 50ms to stati
 
 **Step 1**<br>
 Navigate through the local folder where you want to clone the repository and run<br>
-`https://github.com/ziedak/Insta_Clone.git insta_clone`. It will clone the repo to your local folder.<br>
+`https://github.com/ziedak/meduim_clone.git meduim_clone`. It will clone the repo to your local folder.<br>
 **Step 2**<br>
-Run `cd insta_clone`<br>
+Run `cd meduim_clone`<br>
 **Step 3**<br>
 Run `yarn install` to install the yarn packages from the `package.json` file.<br>
 **Step 4**<br>
